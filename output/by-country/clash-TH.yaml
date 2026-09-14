@@ -20,17 +20,17 @@ proxies:
       Host: faxf32gkfzoxqv.fx6hsv0.ccwu.cc
 - name: 🇹🇭 TH 02 - xiaohe
   type: vless
-  server: 188.114.97.6
-  port: 8880
-  uuid: b19b768d-bc57-4d03-9bea-61129ed5fef9
+  server: 103.86.49.57
+  port: 80
+  uuid: 3c52e091-6714-4915-949f-2149fe69951b
   udp: true
   tls: false
   skip-cert-verify: true
   network: ws
   ws-opts:
-    path: /Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET
+    path: /ws
     headers:
-      Host: new.106-79e.workers.dev
+      Host: aIs.SpEeDtEsT.nEt
 - name: 🇹🇭 TH 03 - xiaohe
   type: vmess
   server: 118.193.57.167
