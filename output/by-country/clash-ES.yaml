@@ -12,13 +12,6 @@ proxies:
   password: WSyL4XTwNsdv
   udp: true
 - name: 🇪🇸 西班牙 (Spain) 02 - xiaohe
-  type: ss
-  server: 140.174.184.5
-  port: 8388
-  cipher: chacha20-ietf-poly1305
-  password: qItG8SueYQcP
-  udp: true
-- name: 🇪🇸 西班牙 (Spain) 03 - xiaohe
   type: vless
   server: 104.18.32.252
   port: 443
@@ -32,6 +25,13 @@ proxies:
     path: /api/v2/4ecb1e0e26887759/stream
     headers:
       Host: eb9a7750.69lover.site
+- name: 🇪🇸 西班牙 (Spain) 03 - xiaohe
+  type: ss
+  server: 140.174.184.5
+  port: 8388
+  cipher: chacha20-ietf-poly1305
+  password: qItG8SueYQcP
+  udp: true
 proxy-groups:
 - name: PROXIES
   type: select
