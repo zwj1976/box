@@ -15,7 +15,7 @@ proxies:
   servername: xi.tbv.ccwu.cc
   network: ws
   ws-opts:
-    path: /proxyip=us.xiabibi.cf
+    path: /
     headers:
       Host: xi.tbv.ccwu.cc
 proxy-groups:
