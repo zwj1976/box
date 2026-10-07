@@ -6,88 +6,86 @@ log-level: info
 proxies:
 - name: 🌐 其他地区 (Other) 01 - xiaohe
   type: vless
-  server: 172.67.181.232
-  port: 2053
-  uuid: e3fb01b6-69b4-41d7-babf-696d992de194
+  server: cf.130519.xyz
+  port: 443
+  uuid: e6df2095-a73c-4043-8693-8d5a03686870
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: uwu.blueknightnet.qzz.io
+  servername: lucasjow.us.ci
   network: ws
   ws-opts:
-    path: /@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net
+    path: /cart/docs/www/proxyip=108.160.132.132
     headers:
-      Host: uwu.blueknightnet.qzz.io
+      Host: lucasjow.us.ci
 - name: 🌐 其他地区 (Other) 02 - xiaohe
   type: vless
-  server: 172.67.185.98
-  port: 2053
-  uuid: 9d672694-c146-422e-b3b5-3717a38a0fcc
+  server: 104.21.70.21
+  port: 443
+  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: fr.api-music-fa.com
+  servername: jp3.yohototo.top
   network: ws
   ws-opts:
-    path: /api/voip/updates/static/fr2035
+    path: /tyxyws
     headers:
-      Host: fr.api-music-fa.com
+      Host: jp3.yohototo.top
 - name: 🌐 其他地区 (Other) 03 - xiaohe
   type: vless
-  server: 104.21.5.128
-  port: 2053
-  uuid: aa5d861a-7799-41a7-bdf4-7a6414cf98fd
+  server: vless4.gem-audio3.us.ci
+  port: 443
+  uuid: f759cead-5aca-4c72-8143-e802698da73b
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: uwu.blueknightnet.qzz.io
+  servername: vless4.gem-audio3.us.ci
   network: ws
   ws-opts:
-    path: /@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net
+    path: /
     headers:
-      Host: uwu.blueknightnet.qzz.io
+      Host: vless4.gem-audio3.us.ci
 - name: 🌐 其他地区 (Other) 04 - xiaohe
   type: vless
-  server: 104.21.84.30
-  port: 2053
-  uuid: 9d672694-c146-422e-b3b5-3717a38a0fcc
+  server: 172.67.76.40
+  port: 443
+  uuid: d342d11e-d224-4463-b982-532309285094
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: fr.api-music-fa.com
+  servername: ccc.010304.xyz
   network: ws
   ws-opts:
-    path: /api/voip/updates/static/fr2035
+    path: /
     headers:
-      Host: fr.api-music-fa.com
+      Host: ccc.010304.xyz
 - name: 🌐 其他地区 (Other) 05 - xiaohe
   type: vless
-  server: 104.21.84.30
-  port: 2053
-  uuid: 9d672694-c146-422e-b3b5-3717a38a0fcc
+  server: 104.18.0.181
+  port: 2082
+  uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b
   udp: true
-  tls: true
+  tls: false
   skip-cert-verify: true
-  servername: fr.api-music-fa.com
   network: ws
   ws-opts:
-    path: /api/voip/updates/static/fr2035
+    path: /fp
     headers:
-      Host: fr.api-music-fa.com
+      Host: hhlfy.twiladaphne.ndjp.net
 - name: 🌐 其他地区 (Other) 06 - xiaohe
   type: vless
-  server: 172.67.185.98
-  port: 2053
-  uuid: 9d672694-c146-422e-b3b5-3717a38a0fcc
+  server: 172.67.181.232
+  port: 2052
+  uuid: e3fb01b6-69b4-41d7-babf-696d992de194
   udp: true
-  tls: true
+  tls: false
   skip-cert-verify: true
-  servername: fr.api-music-fa.com
   network: ws
   ws-opts:
-    path: /api/voip/updates/static/fr2035
+    path: /@BlueKnight_net--@BlueKnight_net?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
     headers:
-      Host: fr.api-music-fa.com
+      Host: uwu.blueknightnet.qzz.io
 - name: 🌐 其他地区 (Other) 07 - xiaohe
   type: vless
   server: 172.64.152.241
@@ -104,6 +102,61 @@ proxies:
       Host: ccc.010304.xyz
 - name: 🌐 其他地区 (Other) 08 - xiaohe
   type: vless
+  server: 104.16.10.104
+  port: 443
+  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
+  udp: true
+  tls: true
+  skip-cert-verify: true
+  servername: jp3.yohototo.top
+  network: ws
+  ws-opts:
+    path: /tyxyws#telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI
+    headers:
+      Host: jp3.yohototo.top
+- name: 🌐 其他地区 (Other) 09 - xiaohe
+  type: vless
+  server: 172.64.150.28
+  port: 2082
+  uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b
+  udp: true
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /fp
+    headers:
+      Host: hhlfy.twiladaphne.ndjp.net
+- name: 🌐 其他地区 (Other) 10 - xiaohe
+  type: vless
+  server: vless3.gem-audio5.us.ci
+  port: 443
+  uuid: bd517e58-d1cb-4eee-bd58-5f2723e7cd02
+  udp: true
+  tls: true
+  skip-cert-verify: true
+  servername: vless3.gem-audio5.us.ci
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: vless3.gem-audio5.us.ci
+- name: 🌐 其他地区 (Other) 11 - xiaohe
+  type: vless
+  server: cf.130519.xyz
+  port: 443
+  uuid: e6df2095-a73c-4043-8693-8d5a03686870
+  udp: true
+  tls: true
+  skip-cert-verify: true
+  servername: lucasjow.us.ci
+  network: ws
+  ws-opts:
+    path: /cart/docs/www/proxyip=108.160.132.132
+    headers:
+      Host: lucasjow.us.ci
+- name: 🌐 其他地区 (Other) 12 - xiaohe
+  type: vless
   server: cf.090227.xyz
   port: 443
   uuid: d342d11e-d224-4463-b982-532309285094
@@ -116,62 +169,35 @@ proxies:
     path: /fp=chrome
     headers:
       Host: ccc.010304.xyz
-- name: 🌐 其他地区 (Other) 09 - xiaohe
+- name: 🌐 其他地区 (Other) 13 - xiaohe
   type: vless
-  server: 104.16.10.135
+  server: 104.21.34.106
   port: 443
-  uuid: c4edb87e-8544-4fa4-bd1c-b0cda9a34b46
+  uuid: 4e4f1f70-5e56-4a76-bb9d-db087f4690c4
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: a.cwvps.eu.org
+  servername: jp3.yohototo.top
   network: ws
   ws-opts:
-    path: /ws#/?TELEGRAM--MTMVPN--MTMVPN?ed=512
+    path: /tyxyws
     headers:
-      Host: a.cwvps.eu.org
-- name: 🌐 其他地区 (Other) 10 - xiaohe
+      Host: jp3.yohototo.top
+- name: 🌐 其他地区 (Other) 14 - xiaohe
   type: vless
-  server: 172.67.195.79
-  port: 2053
-  uuid: aa5d861a-7799-41a7-bdf4-7a6414cf98fd
-  udp: true
-  tls: true
-  skip-cert-verify: true
-  servername: uwu.blueknightnet.qzz.io
-  network: ws
-  ws-opts:
-    path: /@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net
-    headers:
-      Host: uwu.blueknightnet.qzz.io
-- name: 🌐 其他地区 (Other) 11 - xiaohe
-  type: vless
-  server: 104.18.35.86
-  port: 8080
-  uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b
-  udp: true
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /sg-melbi
-    headers:
-      Host: hhlfy.twiladaphne.ndjp.net
-- name: 🌐 其他地区 (Other) 12 - xiaohe
-  type: vless
-  server: 172.67.76.40
+  server: vless2.gem-audio5.us.ci
   port: 443
-  uuid: d342d11e-d224-4463-b982-532309285094
+  uuid: bd517e58-d1cb-4eee-bd58-5f2723e7cd02
   udp: true
   tls: true
   skip-cert-verify: true
-  servername: ccc.010304.xyz
+  servername: vless2.gem-audio5.us.ci
   network: ws
   ws-opts:
     path: /
     headers:
-      Host: ccc.010304.xyz
-- name: 🌐 其他地区 (Other) 13 - xiaohe
+      Host: vless2.gem-audio5.us.ci
+- name: 🌐 其他地区 (Other) 15 - xiaohe
   type: vless
   server: 104.18.35.15
   port: 443
@@ -185,7 +211,7 @@ proxies:
     path: /fp=chrome
     headers:
       Host: ccc.010304.xyz
-- name: 🌐 其他地区 (Other) 14 - xiaohe
+- name: 🌐 其他地区 (Other) 16 - xiaohe
   type: vless
   server: 172.64.150.28
   port: 2082
@@ -195,9 +221,50 @@ proxies:
   skip-cert-verify: true
   network: ws
   ws-opts:
-    path: /
+    path: /fp
     headers:
       Host: hhlfy.twiladaphne.ndjp.net
+- name: 🌐 其他地区 (Other) 17 - xiaohe
+  type: vless
+  server: vless.gem-audio5.us.ci
+  port: 443
+  uuid: bd517e58-d1cb-4eee-bd58-5f2723e7cd02
+  udp: true
+  tls: true
+  skip-cert-verify: true
+  servername: vless.gem-audio5.us.ci
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: vless.gem-audio5.us.ci
+- name: 🌐 其他地区 (Other) 18 - xiaohe
+  type: vless
+  server: 172.64.150.28
+  port: 2082
+  uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b
+  udp: true
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /fp
+    headers:
+      Host: hhlfy.twiladaphne.ndjp.net
+- name: 🌐 其他地区 (Other) 19 - xiaohe
+  type: vless
+  server: cf.877774.xyz
+  port: 443
+  uuid: e6df2095-a73c-4043-8693-8d5a03686870
+  udp: true
+  tls: true
+  skip-cert-verify: true
+  servername: lucasjow.us.ci
+  network: ws
+  ws-opts:
+    path: /cart/docs/www/proxyip=108.160.132.132
+    headers:
+      Host: lucasjow.us.ci
 proxy-groups:
 - name: PROXIES
   type: select
@@ -217,6 +284,11 @@ proxy-groups:
   - 🌐 其他地区 (Other) 12 - xiaohe
   - 🌐 其他地区 (Other) 13 - xiaohe
   - 🌐 其他地区 (Other) 14 - xiaohe
+  - 🌐 其他地区 (Other) 15 - xiaohe
+  - 🌐 其他地区 (Other) 16 - xiaohe
+  - 🌐 其他地区 (Other) 17 - xiaohe
+  - 🌐 其他地区 (Other) 18 - xiaohe
+  - 🌐 其他地区 (Other) 19 - xiaohe
 - name: AUTO
   type: url-test
   url: https://www.google.com/generate_204
@@ -236,5 +308,10 @@ proxy-groups:
   - 🌐 其他地区 (Other) 12 - xiaohe
   - 🌐 其他地区 (Other) 13 - xiaohe
   - 🌐 其他地区 (Other) 14 - xiaohe
+  - 🌐 其他地区 (Other) 15 - xiaohe
+  - 🌐 其他地区 (Other) 16 - xiaohe
+  - 🌐 其他地区 (Other) 17 - xiaohe
+  - 🌐 其他地区 (Other) 18 - xiaohe
+  - 🌐 其他地区 (Other) 19 - xiaohe
 rules:
 - MATCH,PROXIES
