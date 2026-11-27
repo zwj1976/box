@@ -6,12 +6,13 @@ log-level: info
 proxies:
 - name: 🇮🇷 IR 01 - xiaohe
   type: vless
-  server: SUR.Deev-Guard.ir
-  port: 15470
-  uuid: d1ec39e3-ad7b-4b65-9f65-813696f9a04e
+  server: ns2.irts.lol
+  port: 443
+  uuid: ff1906a5-a446-44e4-8e72-4e2d61775fa0
   udp: true
-  tls: false
+  tls: true
   skip-cert-verify: true
+  servername: ns2.irts.lol
 proxy-groups:
 - name: PROXIES
   type: select
